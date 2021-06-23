@@ -1,4 +1,4 @@
-import dns.resolver, ssl
+import dns.resolver
 import requests
 from sys import argv
 
@@ -42,3 +42,6 @@ for domain in domains :
     
         print(f"{domain} :")
         print("not found\n\n" + "#" * 50 + "\n")
+
+        
+        
