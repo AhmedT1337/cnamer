@@ -1,7 +1,7 @@
 import dns.resolver
 import requests
 from sys import argv
-from art import tprint
+from art import *
 
 tprint("CNAMER")
 print("                    Code by: Ahmed Tareq")
