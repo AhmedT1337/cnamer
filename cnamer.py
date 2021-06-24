@@ -4,7 +4,7 @@ from sys import argv
 from art import *
 
 tprint("CNAMER")
-print("                    Code by: Ahmed Tareq")
+print("           Coded by: Ahmed Tareq")
 
 domains = open(argv[1], "r").read().splitlines()
 
