@@ -11,6 +11,7 @@ how to use it :
 - put the txt file as the first file
 - done!
 
+notice : every domain you put in the txt file should be in this form www.example.com.
 
 example :
 python3 cnamer.py list.txt
