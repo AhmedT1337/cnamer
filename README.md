@@ -1,5 +1,5 @@
 # cnamer
-This tool fetches the CNAME domain of every domain you give in a file and prints the responce code next to it.
+This tool fetches the CNAME domain of every domain you give in a file and prints the satus code next to it.
 
 usage : this tool can be used to find subdomain takeover vulnerabilities.
 
