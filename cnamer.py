@@ -1,6 +1,10 @@
 import dns.resolver
 import requests
 from sys import argv
+from art import tprint
+
+tprint("CNAMER")
+print("                    Code by: Ahmed Tareq")
 
 domains = open(argv[1], "r").read().splitlines()
 
