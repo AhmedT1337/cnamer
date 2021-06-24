@@ -3,7 +3,7 @@ import requests
 from sys import argv
 from art import *
 
-tprint("CNAMER")
+tprint("C-NAMER")
 print("           Coded by: Ahmed Tareq")
 
 domains = open(argv[1], "r").read().splitlines()
