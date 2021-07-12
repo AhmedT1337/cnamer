@@ -12,7 +12,7 @@ for domain in domains :
     
     try :
     
-        cname_domains = dns.resolver.query(domain, "CNAME")
+        cname_domains = dns.resolver.resolve(domain, "CNAME")
         
         print(f"{domain} :")
         
